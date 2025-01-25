@@ -4,7 +4,7 @@
 〇コントローラーの背面のつまみをXの方にする。
 
 〇Edit->Project Settings->Input Managerとして、Input Managerを開く。
-　以下の軸を作成し、設定する。
+　以下の軸を作成し、設定する。（）内の物は設定しなくていいかも。
 　・Horizontal （左スティックの左右、float型、左が正）
 　Name : Horizontal
 　（Gravity : 0）
